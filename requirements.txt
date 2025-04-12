@@ -1,0 +1,17 @@
+
+langchain
+elevenlabs
+langgraph
+langchain_google_genai
+langchain_groq
+elevenlabs
+together
+pillow
+qdrant_client
+langgraph.checkpoint.sqlite
+chainlit
+pytz
+python-dotenv
+google-generativeai
+langchainhub
+-e .

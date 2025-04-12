@@ -1,0 +1,5 @@
+setup.py
+Eliza_agent.egg-info/PKG-INFO
+Eliza_agent.egg-info/SOURCES.txt
+Eliza_agent.egg-info/dependency_links.txt
+Eliza_agent.egg-info/top_level.txt
